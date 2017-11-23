@@ -1,0 +1,2 @@
+# kazarin.tech
+Personal website
